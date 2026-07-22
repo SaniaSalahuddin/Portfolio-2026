@@ -1,16 +1,150 @@
-# React + Vite
+# 🌟 Sania Salahuddin Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, interactive, and responsive developer portfolio showcasing my skills, projects, and experience as a **Full Stack MERN Developer**. Built with React, Three.js, GSAP, and Tailwind CSS to deliver an immersive user experience with smooth animations and 3D visuals.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🌐 https://your-portfolio-link.vercel.app
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📸 Preview
 
-## Expanding the Oxlint configuration
+![Portfolio Preview](public/preview.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+
+## ✨ Features
+
+- 🎨 Modern dark UI with emerald accents
+- 🚀 Smooth GSAP animations
+- 🌍 Interactive 3D Hero Section using React Three Fiber
+- 💡 Dynamic lighting and particle effects
+- 📱 Fully Responsive Design
+- ⚡ Built with Vite for blazing-fast performance
+- 📂 Downloadable Resume
+- 📧 Contact Section
+- 🎯 SEO Optimized
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript (ES6+)
+
+### Animation
+
+- GSAP
+- Framer Motion
+
+### 3D
+
+- Three.js
+- React Three Fiber
+- Drei
+- Postprocessing
+
+### Icons
+
+- React Icons
+
+---
+
+## 📁 Folder Structure
+
+```
+portfolio/
+│
+├── public/
+│   ├── models/
+│   ├── images/
+│   ├── favicon.png
+│   └── Sania_Resume.pdf
+│
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── pages/
+│   └── App.jsx
+│
+├── package.json
+└── vite.config.js
+```
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository
+
+```bash
+git clone https://github.com/yourusername/portfolio.git
+```
+
+Go to the project directory
+
+```bash
+cd portfolio
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the development server
+
+```bash
+npm run dev
+```
+
+Build for production
+
+```bash
+npm run build
+```
+
+Preview production build
+
+```bash
+npm run preview
+```
+
+---
+
+## 🎯 Lighthouse
+
+- ✅ Performance
+- ✅ Accessibility
+- ✅ Best Practices
+- ✅ SEO
+
+---
+
+## 📬 Contact
+
+**Sania Salahuddin**
+
+📧 saniasalahuddin07@gmail.com
+
+💼 LinkedIn  
+https://www.linkedin.com/in/sania-salahuddin-1a4781324/
+
+💻 GitHub  
+https://github.com/SaniaSalahuddin
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+⭐ If you like this project, don't forget to star the repository!
