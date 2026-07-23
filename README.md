@@ -4,13 +4,14 @@ A modern, interactive, and responsive developer portfolio showcasing my skills, 
 
 ## 🔗 Live Demo
 
-🌐 https://your-portfolio-link.vercel.app
+🌐 https://sania-portfolio-2026.vercel.app/
 
 ---
 
 ## 📸 Preview
 
-![Portfolio Preview](public/preview.png)
+<img width="1887" height="820" alt="image" src="https://github.com/user-attachments/assets/c2ba3268-d049-4449-8260-1ac6b7220f3b" />
+
 
 ---
 
@@ -83,7 +84,7 @@ portfolio/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/SaniaSalahuddin/portfolio.git
 ```
 
 Go to the project directory
