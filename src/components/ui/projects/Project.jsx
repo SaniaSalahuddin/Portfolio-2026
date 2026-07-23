@@ -251,7 +251,7 @@ const projects = [
    ],
 
     image: "/images/collba.png",
-    github: "https://github.com/username/smart-energy",
+    github: "https://github.com/SaniaSalahuddin/CollabDoc",
     live: "https://www.linkedin.com/posts/sania-salahuddin-1a4781324_reactjs-nodejs-expressjs-ugcPost-7479428325354967040-Et9J/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFH748wBqfNSEtjtePjjt0xM3wV0YgYUw7M"
   },
   {
