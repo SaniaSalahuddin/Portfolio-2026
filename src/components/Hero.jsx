@@ -1,10 +1,9 @@
 import React from "react";
 import "../index.css";
 
-import { Canvas } from "@react-three/fiber";
-import { OrbitControls } from "@react-three/drei";
 
-import { Computer } from "./Computer";
+
+
 import ShinyText from "./ShinyText";
 import RotatingText from "./RotatingText";
 
